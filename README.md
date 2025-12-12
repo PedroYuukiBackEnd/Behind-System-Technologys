@@ -1,4 +1,4 @@
-Claro! Com base no **seu repositório** e nas melhores práticas para um *README.md* claro e profissional — incluindo título, descrição, funcionalidades, tecnologias, como rodar e contribuir — aqui vai um modelo pronto para você colar no seu `README.md`: ([DIO][1])
+
 
 ---
 
@@ -114,3 +114,4 @@ Se quiser, posso gerar **versões em inglês**, com **badges automáticos** (sta
 
 [1]: https://www.dio.me/articles/como-ter-um-bom-readme-1dcf578239e1?utm_source=chatgpt.com "Como ter um bom README!✅ | Gabriel Felipe | GitHub | DIO"
 [2]: https://github.com/PedroYuukiBackEnd/Behind-System-Technologys/tree/main "GitHub - PedroYuukiBackEnd/Behind-System-Technologys: Nosso principal propósito é Criar soluções digitais eficientes e personalizadas que atendam às necessidades de empresas e usuários, por meio do desenvolvimento de sites, sistemas web e aplicativos."
+

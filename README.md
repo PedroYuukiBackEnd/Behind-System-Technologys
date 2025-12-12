@@ -4,7 +4,7 @@
 
 # Behind System Technologys
 
-> Nosso principal propósito é criar soluções digitais eficientes e personalizadas que atendam às necessidades de empresas e usuários, por meio do desenvolvimento de sites, sistemas web e aplicativos. ([GitHub][2])
+> Nosso principal propósito é criar soluções digitais eficientes e personalizadas que atendam às necessidades de empresas e usuários, por meio do desenvolvimento de sites, sistemas web e aplicativos.
 
 ---
 
@@ -24,7 +24,6 @@ Ele funciona como base para projetos maiores, podendo ser adaptado ou expandido 
 * ✔ Fácil integração com back-end de sua escolha;
 * ✔ Projeto ideal para aprendizado e portfólio.
 
-*(Você pode personalizar esta lista conforme o que o seu protótipo realmente faz)*
 
 ---
 
@@ -35,7 +34,6 @@ Este projeto foi feito com as seguintes linguagens e ferramentas:
 * **HTML**
 * **CSS**
 * **JavaScript**
-  *(Baseado na análise das linguagens do repositório)* ([GitHub][2])
 
 ---
 
@@ -109,5 +107,6 @@ Esse projeto está sob a licença **MIT** — sinta-se livre para usar e adaptar
 Obrigado por visitar o projeto! Se você gostou, considere dar ⭐ no repositório! 🚀
 
 ---
+
 
 

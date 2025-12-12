@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Behind System - Technology</title>
+
+    <!-- Fonte moderna -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="/Front-end/style.css">
+    <script src="/Front-end/anim.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo-area">
+            <img src="img/ChatGPT Image 11 de dez. de 2025, 13_13_25.png" alt="Logo Behind System" class="navbar-logo">
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="/Front-end/index.html">Home</a></li>
+                <li><a href="/Front-end/sobre.html">Sobre</a></li>
+                <li><a href="/Front-end/servicos.html">Serviços</a></li>
+                <li><a href="/Front-end/suporte.html">Suporte</a></li>
+            </ul>
+        </nav>
+        <div class="menu-btn" id="menuBtn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="/Front-end/index.html">Home</a>
+        <a href="/Front-end/sobre.html">Sobre</a>
+        <a href="/Front-end/servicos.html">Serviços</a>
+        <a href="/Front-end/suporte.html">Suporte</a>
+    </div>
+    <main>
+        <section class="support-section">
+
+            <div class="support-container">
+
+                <!-- LADO ESQUERDO — IMAGEM -->
+                <div class="support-left">
+                    <img src="img/pexels-enginakyurt-16748671.jpg" alt="Equipe de Suporte">
+                </div>
+
+                <!-- LADO DIREITO — FORM -->
+                <div class="support-right">
+
+                    <h2>Suporte & Atendimento</h2>
+                    <p>
+                        Precisa de ajuda? Nossa equipe está disponível para resolver dúvidas, analisar problemas
+                        e orientar você com rapidez e eficiência.
+                    </p>
+
+                    <form class="support-form">
+
+                        <div class="input-group">
+                            <label>Nome</label>
+                            <input type="text" placeholder="Digite seu nome" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label>E-mail</label>
+                            <input type="email" placeholder="Seu melhor e-mail" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label>Mensagem</label>
+                            <textarea placeholder="Descreva como podemos ajudar" required></textarea>
+                        </div>
+
+                        <button type="submit" class="support-btn">Enviar Mensagem</button>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </section>
+    </main>
+</body>
+<footer class="footer">
+    <div class="footer-container">
+
+        <!-- Coluna 1 -->
+        <div class="footer-col">
+            <p>R. Avenida dos Pescadores, 220<br>
+                Bairro: Vila Andrade<br>
+                Brasil - Cyberlândia, SP<br>
+                CEP01337-000<br>
+                CNPJ 12.345.678/0001-90</p>
+        </div>
+
+        <!-- Coluna 2 -->
+        <div class="footer-col">
+            <h3>Institucional</h3>
+            <a href="/Front-end/sobre.html">Sobre nós</a>
+            <a href="/Front-end/suporte.html">Suporte</a>
+            <a href="#">SAC</a>
+            <a href="#">Políticas de privacidade</a>
+        </div>
+
+        <!-- Coluna 3 -->
+        <div class="footer-col">
+            <h3>Links úteis</h3>
+            <a href="/Front-end/index.html">Home</a>
+            <a href="/Front-end/sobre.html">Sobre</a>
+            <a href="/Front-end/servicos.html">Serviços</a>
+        </div>
+
+        <!-- Newsletter -->
+        <div class="footer-col newsletter">
+            <h3>Newsletter</h3>
+            <p>Receba atualizações e novidades da Behind System</p>
+
+            <div class="newsletter-box">
+                <input type="email" id="emailInput" placeholder="Digite seu email">
+                <button onclick="sendNewsletter()">Enviar</button>
+            </div>
+
+            <span id="newsletterMsg"></span>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        © 2025 Behind System — Todos os direitos reservados.
+    </div>
+
+</footer>

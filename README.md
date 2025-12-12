@@ -110,8 +110,4 @@ Obrigado por visitar o projeto! Se você gostou, considere dar ⭐ no repositór
 
 ---
 
-Se quiser, posso gerar **versões em inglês**, com **badges automáticos** (status, stars, ferramentas) e até inserir **screenshots ou GIFs** — é só pedir!
-
-[1]: https://www.dio.me/articles/como-ter-um-bom-readme-1dcf578239e1?utm_source=chatgpt.com "Como ter um bom README!✅ | Gabriel Felipe | GitHub | DIO"
-[2]: https://github.com/PedroYuukiBackEnd/Behind-System-Technologys/tree/main "GitHub - PedroYuukiBackEnd/Behind-System-Technologys: Nosso principal propósito é Criar soluções digitais eficientes e personalizadas que atendam às necessidades de empresas e usuários, por meio do desenvolvimento de sites, sistemas web e aplicativos."
 
